@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="297mm"
@@ -27,116 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="1.0"
      inkscape:pageshadow="0"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="559.57099"
-     inkscape:cy="264.43454"
+     inkscape:zoom="1.4"
+     inkscape:cx="492.70102"
+     inkscape:cy="114.75304"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="962"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:window-maximized="1" />
   <defs
      id="defs1495">
-    <linearGradient
-       gradientTransform="matrix(0.12934065,0,0,0.12934065,131.94439,146.6444)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient3212"
-       id="linearGradient3214"
-       x1="145.5"
-       y1="23.5"
-       x2="146.5"
-       y2="231"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3212">
-      <stop
-         style="stop-color:#64baff;stop-opacity:1"
-         offset="0"
-         id="stop3208" />
-      <stop
-         style="stop-color:#002e99;stop-opacity:1"
-         offset="1"
-         id="stop3210" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.12934065,0,0,0.12934065,131.94439,146.6444)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient3166"
-       id="linearGradient3168"
-       x1="116.79609"
-       y1="136.27682"
-       x2="141.52617"
-       y2="215.5779"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3166">
-      <stop
-         style="stop-color:#ffc27d;stop-opacity:1"
-         offset="0"
-         id="stop3162" />
-      <stop
-         style="stop-color:#715344;stop-opacity:1"
-         offset="1"
-         id="stop3164" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.12934065,0,0,0.12934065,131.94439,146.6444)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient3150"
-       id="linearGradient3152"
-       x1="129.54153"
-       y1="128.00343"
-       x2="31.5"
-       y2="98"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3150">
-      <stop
-         style="stop-color:#68b723;stop-opacity:1"
-         offset="0"
-         id="stop3146" />
-      <stop
-         style="stop-color:#d1ff82;stop-opacity:1"
-         offset="1"
-         id="stop3148" />
-    </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.12934065,0,0,0.12934065,131.94439,146.6444)"
-       inkscape:collect="always"
-       xlink:href="#linearGradient3150"
-       id="linearGradient3144"
-       x1="129.54153"
-       y1="128.00343"
-       x2="211.25269"
-       y2="44.509525"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3174"
-       id="linearGradient3176"
-       x1="101.55712"
-       y1="178.73041"
-       x2="130.68512"
-       y2="241.13283"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient3174">
-      <stop
-         style="stop-color:#ffc27d;stop-opacity:1"
-         offset="0"
-         id="stop3170" />
-      <stop
-         style="stop-color:#8a715e;stop-opacity:1"
-         offset="1"
-         id="stop3172" />
-    </linearGradient>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3268">
@@ -157,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,53 +68,21 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
      transform="translate(0,-130)">
-    <circle
-       style="opacity:1;fill:url(#linearGradient3214);fill-opacity:1;fill-rule:nonzero;stroke:#282c4f;stroke-width:0.7230041;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path1374"
-       cx="148.5"
-       cy="163.20001"
-       r="13.441211" />
-    <path
-       style="fill:url(#linearGradient3168);fill-opacity:1;stroke:#000034;stroke-width:0.19553863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 148.69938,163.20045 c 0,0 -1.3901,0.73298 -2.07604,9.14709 -0.68593,8.4141 0.45729,0.0457 0.45729,0.0457 0,0 0.30523,-6.5589 1.95432,-9.09721 1.64909,-2.53831 -0.33557,-0.0956 -0.33557,-0.0956 z"
-       id="path1998"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:url(#linearGradient3152);fill-opacity:1;stroke:#000034;stroke-width:0.19553863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 138.64831,156.16128 c 0,0 -0.79711,9.97711 7.45411,9.09381 8.021,-0.85866 -7.45411,-9.09381 -7.45411,-9.09381 z"
-       id="path1974"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc" />
-    <path
-       style="fill:url(#linearGradient3144);fill-opacity:1;fill-rule:nonzero;stroke:#000034;stroke-width:0.19599999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 159.26795,152.40129 c 0,0 -10.28011,-1.17527 -10.56857,10.79916 0,0 4.42522,2.22535 10.56857,-10.79916 z"
-       id="path1976"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
-    <path
-       style="opacity:1;fill:url(#linearGradient3176);fill-opacity:1;stroke:#000034;stroke-width:1.48129499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 47.442445,210.17252 c 0,0 43.067223,-22.05477 68.876625,-12.50883 25.80939,9.54594 43.86206,1.12527 43.86206,1.12527 0,0 26.04558,-13.961 47.00116,6.65291 29.43807,28.9581 -36.76956,42.77996 -36.76956,42.77996 l -93.691644,2.47487 c 0,0 -34.294679,-24.39518 -34.648232,-25.8094 -0.353554,-1.41421 5.369591,-14.71478 5.369591,-14.71478 z"
-       id="path1978"
-       inkscape:connector-curvature="0"
-       mask="none"
-       transform="matrix(0.12934065,0,0,0.13472462,131.94717,144.945)"
-       sodipodi:nodetypes="cscscccc"
-       clip-path="url(#clipPath3268)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot2147"
-       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-2.481688,56.437801)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#485a6c;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.3097098,55.051161)"><flowRegion
          id="flowRegion2149"
-         style="font-size:21.33333397px"><rect
+         style="font-size:21.33333397px;fill:#485a6c"><rect
            id="rect2151"
            width="283.58011"
            height="42.366924"
            x="428.57144"
            y="483.70081"
-           style="font-size:21.33333397px" /></flowRegion><flowPara
+           style="font-size:21.33333397px;fill:#485a6c" /></flowRegion><flowPara
          id="flowPara2153"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:Raleway;-inkscape-font-specification:'Raleway Italic';text-align:center;text-anchor:middle;fill:#0d52bf">Automatic API for mongodb</flowPara></flowRoot>    <text
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'Dank Mono';-inkscape-font-specification:'Dank Mono Italic';text-align:center;text-anchor:middle;fill:#485a6c">Automatic API for mongodb</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="201.78848"
@@ -223,5 +93,50 @@
          x="201.78848"
          y="143.0939"
          style="stroke-width:0.26458332" /></text>
+    <g
+       id="g864"
+       transform="matrix(0.42258591,0,0,0.42258591,69.777796,106.94108)">
+      <circle
+         r="27.495768"
+         cy="137.83723"
+         cx="186.28687"
+         id="path1374-3"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#273445;stroke-width:1.47900009;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text4712"
+         y="147.59126"
+         x="191.56871"
+         style="font-style:normal;font-weight:normal;font-size:35.27080917px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#273445;fill-opacity:1;stroke:none;stroke-width:0.88177013"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#273445;stroke-width:0.88177013"
+           y="147.59126"
+           x="191.56871"
+           id="tspan4710"
+           sodipodi:role="line">}</tspan></text>
+      <rect
+         ry="0"
+         y="131.22719"
+         x="180.15175"
+         height="2.2356617"
+         width="9.0527964"
+         id="rect4724"
+         style="fill:#273445;fill-opacity:1;stroke:none;stroke-width:0.66224706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#273445;fill-opacity:1;stroke:none;stroke-width:0.80228353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4728"
+         width="13.28613"
+         height="2.2356617"
+         x="175.95488"
+         y="137.35434"
+         ry="0" />
+      <rect
+         ry="0"
+         y="143.48149"
+         x="168.08353"
+         height="2.2356617"
+         width="21.157484"
+         id="rect4730"
+         style="fill:#273445;fill-opacity:1;stroke:none;stroke-width:1.01241982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
